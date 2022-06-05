@@ -1,0 +1,130 @@
+/*         ESTILOS NAV */
+nav{
+    position: absolute;
+    background-color:green;
+    border: 10px solid black;
+    width: 1000px;
+    height: 100px;
+    display: table;
+  
+
+}
+
+.NavBox{
+    background-color: aliceblue;
+    float: left;
+    width: 176px;
+    height: 80px;
+    margin:10px;
+    text-align: center;
+
+}
+
+
+
+
+/*         ESTILOS HEADER */
+header{
+    position: absolute;
+    background-color:rgb(30, 123, 173);
+    width: 1000px;
+    border: 10px solid black;
+    height: 300px;
+    top:128px;
+
+
+}
+
+#Banner{
+    position: absolute;
+    border: 2px solid black;    
+    background-color: white;
+    text-align: center;
+
+    height: 280px;
+    width: 800px;
+    margin: 9px;
+
+
+}
+
+#BannerLogo{
+    position: relative;
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+    left: 813px;
+    
+    width: 160px;
+    height: 80px;
+    margin: 12px;
+
+}
+
+#BannerLogin{
+    position: relative;
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+    left: 813px;
+
+    width: 160px;
+    height: 80px;
+    margin: 12px;
+
+}
+
+#BannerForm{
+    position: relative;
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+    left: 813px;
+
+    width: 160px;
+    height: 80px;
+    margin: 12px;
+
+}
+
+
+/*         ESTILOS MAIN */
+main{
+    position: absolute;
+    display: flex;  
+    background-color:rgb(207, 183, 151);
+    border: 10px solid black;
+    width: 1000px;
+    height: 500px;
+    top:448px
+
+
+
+}
+
+.asides{
+    background-color:white;
+    width: 200px;
+    height: 470px;
+    border: 2px solid black;  
+    margin: 12.5px;
+}
+
+#article{
+    background-color:white;
+    width: 500px;
+    height: 470px;
+    border: 2px solid black;
+    margin: 12.5px; 
+}
+
+/*         ESTILOS FOOTER */
+footer{
+    position: absolute;
+    background-color:gold ;
+    border: 10px solid black;
+    width: 1000px;
+    height: 50px;
+    top:968px
+
+}
